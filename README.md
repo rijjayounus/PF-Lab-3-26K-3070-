@@ -11,3 +11,5 @@ Hi! My name is Rijja Younus. I am a Software Engineering student.
 - Learning new technologies
 
 I am currently improving my programming skills and learning more about software development.
+
+***I am excited to learn more about programming!***
